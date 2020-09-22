@@ -5,12 +5,12 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Junmo Kang
 title: Junmo Kang
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+email: junmo.kang@kaist.ac.kr
+# phone: Your phone number (optional)
+# website: Your website (eg. https://google.com)(optional)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 twitter_username: jekyllrb
@@ -44,7 +44,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: https://avatars1.githubusercontent.com/u/17330126?s=460&u=08e2589957bd406c71052c69bbab0c8acb329797&v=4
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
