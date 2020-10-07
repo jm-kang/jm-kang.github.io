@@ -1,4 +1,4 @@
-# Junmo Kang's Website (based on Martin Saveski's Template)
+# Junmo Kang's Website (based on Martin Saveski's template)
 
 ## Updates guide
 Change one of the files in `_data`, unless you are changing the look of the website.
