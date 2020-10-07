@@ -5,7 +5,7 @@
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <meta charset="utf-8">
-  <title>{{ site.data.main_info.name }} | {{ page.title }}</title>
+  <title>{{ site.data.main_info.name }}</title>
   <meta name="description" content="Homepage of Junmo Kang">
   <meta name="author" content="Junmo Kang">
 
@@ -51,8 +51,8 @@
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="icon" type="image/png" href={{ "/libs/icon.png" | prepend: site.baseurl }}>
-  <link rel="shortcut icon" type="image/png" href={{ "/libs/icon.png" | prepend: site.baseurl }}>
+  <!-- <link rel="icon" type="image/png" href={{ "/libs/icon.png" | prepend: site.baseurl }}>
+  <link rel="shortcut icon" type="image/png" href={{ "/libs/icon.png" | prepend: site.baseurl }}> -->
 
 </head>
 <body>
@@ -133,15 +133,7 @@
   </div>
 
   <!-- Google Analytics -->
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179986332-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-179986332-1');
-  </script>
+  {% include google_analytics.html %}
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
