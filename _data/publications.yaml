@@ -3,16 +3,18 @@ papers:
   - title: "Handling Anomalies of Synthetic Questions in Unsupervised Question Answering"
     authors: "Giwon Hong<sup>*</sup>, <b>Junmo Kang<sup>*</sup></b>, Doyeon Lim<sup>*</sup>, Sung-Hyon Myaeng"
     venue: "In Proceedings of COLING, 2020."
+    paper_pdf: "https://www.aclweb.org/anthology/2020.coling-main.306.pdf"
     selected: y
 
   - title: "Regularization of Distinct Strategies for Unsupervised Question Generation"
     authors: "<b>Junmo Kang<sup>*</sup></b>, Giwon Hong<sup>*</sup>, Haritz Puerto San Roman<sup>*</sup>, Sung-Hyon Myaeng"
     venue: "In Proceedings of Findings of EMNLP, 2020."
+    paper_pdf: "https://www.aclweb.org/anthology/2020.findings-emnlp.293.pdf"
     selected: y
 
   - title: "Let Me Know What to Ask: Interrogative-Word-Aware Question Generation"
     authors: "<b>Junmo Kang<sup>*</sup></b>, Haritz Puerto San Roman<sup>*</sup>, Sung-Hyon Myaeng"
     venue: "In Proceedings of MRQA@EMNLP, 2019."
-    paper_pdf: "/assets/publications/2019_let_me_know/paper.pdf"
+    paper_pdf: "https://www.aclweb.org/anthology/D19-5822.pdf"
     poster: "/assets/publications/2019_let_me_know/poster.pdf"
     selected: y
