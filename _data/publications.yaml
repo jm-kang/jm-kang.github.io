@@ -1,5 +1,10 @@
 papers:
 
+  - title: "A Sequence-Oblivious Generation Method for Context-Aware Hashtag Recommendation"
+    authors: "<b>Junmo Kang</b>, Jeonghwan Kim, Suwon Shin, Sung-Hyon Myaeng"
+    venue: "arXiv"
+    selected: y
+
   - title: "Handling Anomalies of Synthetic Questions in Unsupervised Question Answering"
     authors: "Giwon Hong<sup>*</sup>, <b>Junmo Kang<sup>*</sup></b>, Doyeon Lim<sup>*</sup>, Sung-Hyon Myaeng"
     venue: "In Proceedings of COLING, 2020."
