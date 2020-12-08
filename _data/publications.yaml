@@ -3,6 +3,7 @@ papers:
   - title: "A Sequence-Oblivious Generation Method for Context-Aware Hashtag Recommendation"
     authors: "<b>Junmo Kang</b>, Jeonghwan Kim, Suwon Shin, Sung-Hyon Myaeng"
     venue: "arXiv"
+    paper_pdf: "https://arxiv.org/pdf/2012.02957.pdf"
     selected: y
 
   - title: "Handling Anomalies of Synthetic Questions in Unsupervised Question Answering"
