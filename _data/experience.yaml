@@ -1,6 +1,12 @@
 experiences:
 - place: "KAIST"
-  time: "Mar. 2019 - Present"
+  time: "Mar. 2021 - Present"
+  title: "KAIST IR&NLP Lab"
+  subtitle: "Researcher"
+  category: "work"
+
+- place: "KAIST"
+  time: "Mar. 2019 - Feb. 2021"
   title: "M.S. in School of Computing"
   subtitle: "IR&NLP Lab"
   category: "school"
@@ -13,7 +19,7 @@ experiences:
 
 - place: "Republic of Korea Army"
   time: "Apr. 2013 - Jan. 2015"
-  title: "honorably discharged as Sergeant"
+  title: "Honorably discharged as Sergeant"
   subtitle: "Compulsory military service"
   category: "work"
 

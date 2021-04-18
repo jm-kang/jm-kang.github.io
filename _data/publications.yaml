@@ -1,8 +1,21 @@
 papers:
 
+  - title: "UHD-BERT: Bucketed Ultra-High Dimensional Sparse Representations for Full Ranking"
+    authors: "Kyoung-Rok Jang, <b>Junmo Kang</b>, Giwon Hong, Sung-Hyon Myaeng, Joohee Park, Taewon Yoon, Heecheol Seo"
+    venue: "arXiv, 2021."
+    paper_pdf: "https://arxiv.org/pdf/2104.07198.pdf"
+    selected: y
+
+  - title: "Can You Distinguish Truthful from Fake Reviews? User Analysis and Assistance Tool for Fake Review Detection"
+    authors: "Jeonghwan Kim<sup>*</sup>, <b>Junmo Kang<sup>*</sup></b>, Suwon Shin<sup>*</sup>, Sung-Hyon Myaeng"
+    venue: "In Proceedings of HCI+NLP@EACL, 2021."
+    paper_pdf: "https://drive.google.com/file/d/1i5Dc7QWADQSHCbADIO5i4930nt5QVOsc/view"
+    poster: "/assets/publications/2021_can_you_distinguish/eacl_poster.pdf"
+    selected: y
+
   - title: "A Sequence-Oblivious Generation Method for Context-Aware Hashtag Recommendation"
     authors: "<b>Junmo Kang</b>, Jeonghwan Kim, Suwon Shin, Sung-Hyon Myaeng"
-    venue: "arXiv"
+    venue: "arXiv, 2020."
     paper_pdf: "https://arxiv.org/pdf/2012.02957.pdf"
     selected: y
 
