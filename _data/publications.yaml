@@ -2,17 +2,17 @@ papers:
 
   - title: "Leveraging Order-Free Tag Relations for Context-Aware Recommendation"
     authors: "<b>Junmo Kang</b>, Jeonghwan Kim, Suwon Shin, Sung-Hyon Myaeng"
-    venue: "In Proceedings of EMNLP, 2021"
+    venue: "In Proceedings of EMNLP, 2021."
     selected: y
 
   - title: "Ultra-High Dimensional Sparse Representations with Binarization for Efficient Text Retrieval"
     authors: "Kyoung-Rok Jang, <b>Junmo Kang</b>, Giwon Hong, Sung-Hyon Myaeng, Joohee Park, Taewon Yoon, Heecheol Seo"
-    venue: "In Proceedings of EMNLP, 2021"
+    venue: "In Proceedings of EMNLP, 2021."
     selected: y
 
   - title: "Have You Seen That Number? Investigating Extrapolation in Question Answering Models"
     authors: "Jeonghwan Kim, Giwon Hong, Kyung-min Kim, <b>Junmo Kang</b>, Sung-Hyon Myaeng"
-    venue: "In Proceedings of EMNLP, 2021"
+    venue: "In Proceedings of EMNLP, 2021."
     selected: y
 
   - title: "Can You Distinguish Truthful from Fake Reviews? User Analysis and Assistance Tool for Fake Review Detection"
