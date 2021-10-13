@@ -25,7 +25,7 @@ papers:
   - title: "Maximizing Efficiency of Language Model Pre-training for Learning Representation"
     authors: "<b>Junmo Kang<sup>*</sup></b>, Suwon Shin<sup>*</sup>, Jeonghwan Kim<sup>*</sup>, Jaeyoung Jo<sup>*</sup>, Sung-Hyon Myaeng"
     venue: "In Proceedings of Korea Software Congress (KSC), 2020."
-    paper_pdf: "/assets/publications/2020_maximizing_efficiency/CS570_Final_Report_Team18.pdf"
+    paper_pdf: "/assets/publications/2020_maximizing_efficiency/paper.pdf"
     selected: y
 
   - title: "Handling Anomalies of Synthetic Questions in Unsupervised Question Answering"
