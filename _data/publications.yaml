@@ -18,8 +18,14 @@ papers:
   - title: "Can You Distinguish Truthful from Fake Reviews? User Analysis and Assistance Tool for Fake Review Detection"
     authors: "Jeonghwan Kim<sup>*</sup>, <b>Junmo Kang<sup>*</sup></b>, Suwon Shin<sup>*</sup>, Sung-Hyon Myaeng"
     venue: "In Proceedings of HCI+NLP@EACL, 2021."
-    paper_pdf: "https://drive.google.com/file/d/1i5Dc7QWADQSHCbADIO5i4930nt5QVOsc/view"
+    paper_pdf: "https://aclanthology.org/2021.hcinlp-1.9.pdf"
     poster: "/assets/publications/2021_can_you_distinguish/eacl_poster.pdf"
+    selected: y
+
+  - title: "Maximizing Efficiency of Language Model Pre-training for Learning Representation"
+    authors: "<b>Junmo Kang<sup>*</sup></b>, Suwon Shin<sup>*</sup>, Jeonghwan Kim<sup>*</sup>, Jaeyoung Jo<sup>*</sup>, Sung-Hyon Myaeng"
+    venue: "In Proceedings of Korea Software Congress (KSC), 2020."
+    paper_pdf: "/assets/publications/2020_maximizing_efficiency/CS570_Final_Report_Team18.pdf"
     selected: y
 
   - title: "Handling Anomalies of Synthetic Questions in Unsupervised Question Answering"
