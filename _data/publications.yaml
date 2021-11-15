@@ -3,16 +3,21 @@ papers:
   - title: "Leveraging Order-Free Tag Relations for Context-Aware Recommendation"
     authors: "<b>Junmo Kang</b>, Jeonghwan Kim, Suwon Shin, Sung-Hyon Myaeng"
     venue: "In Proceedings of EMNLP, 2021."
+    paper_pdf: "https://aclanthology.org/2021.emnlp-main.279.pdf"
+    poster: "/assets/publications/2021_leveraging_order-free/SOG_poster.pdf"
     selected: y
 
   - title: "Ultra-High Dimensional Sparse Representations with Binarization for Efficient Text Retrieval"
     authors: "Kyoung-Rok Jang, <b>Junmo Kang</b>, Giwon Hong, Sung-Hyon Myaeng, Joohee Park, Taewon Yoon, Heecheol Seo"
     venue: "In Proceedings of EMNLP, 2021."
+    paper_pdf: "https://aclanthology.org/2021.emnlp-main.78.pdf"
     selected: y
 
   - title: "Have You Seen That Number? Investigating Extrapolation in Question Answering Models"
     authors: "Jeonghwan Kim, Giwon Hong, Kyung-min Kim, <b>Junmo Kang</b>, Sung-Hyon Myaeng"
     venue: "In Proceedings of EMNLP, 2021."
+    paper_pdf: "https://aclanthology.org/2021.emnlp-main.563.pdf"
+    poster: "/assets/publications/2021_have_you_seen/haveyouseennum_emnlp2021_poster.pdf"
     selected: y
 
   - title: "Can You Distinguish Truthful from Fake Reviews? User Analysis and Assistance Tool for Fake Review Detection"
@@ -25,7 +30,7 @@ papers:
   - title: "Maximizing Efficiency of Language Model Pre-training for Learning Representation"
     authors: "<b>Junmo Kang<sup>*</sup></b>, Suwon Shin<sup>*</sup>, Jeonghwan Kim<sup>*</sup>, Jaeyoung Jo<sup>*</sup>, Sung-Hyon Myaeng"
     venue: "In Proceedings of Korea Software Congress (KSC), 2020."
-    paper_pdf: "/assets/publications/2020_maximizing_efficiency/paper.pdf"
+    paper_pdf: "https://arxiv.org/pdf/2110.06620.pdf"
     selected: y
 
   - title: "Handling Anomalies of Synthetic Questions in Unsupervised Question Answering"
