@@ -68,12 +68,12 @@ layout: default
       {% assign selected_papers = site.data.publications.papers | where: "selected", "y" %}
       {% for paper in selected_papers %}
         <div class="paper">
-          <div class="three columns">
+          <div class="four columns">
             <div class="figure">
               <img src="{{ paper.image }}" width="100%">
             </div>
           </div>
-          <div class="nine columns">
+          <div class="eight columns">
             <p class="title"><b>{{ paper.title }}</b></p>
             <p>{{ paper.authors }}</p>
             <p><i>{{ paper.venue }}</i></p>
@@ -106,12 +106,12 @@ layout: default
     <div class="tab-pane" id="papers-all">
       {% for paper in site.data.publications.papers %}
         <div class="paper">
-          <div class="three columns">
+          <div class="four columns">
             <div class="figure">
               <img src="{{ paper.image }}" width="100%">
             </div>
           </div>
-          <div class="nine columns">
+          <div class="eight columns">
             <p class="title"><b>{{ paper.title }}</b></p>
             <p>{{ paper.authors }}</p>
             <p><i>{{ paper.venue }}</i></p>
