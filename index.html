@@ -58,13 +58,13 @@ layout: default
   <sup>*</sup> indicates equal contribution.
   </p>
 
-  <!-- <ul class="tab-nav">
+  <ul class="tab-nav">
     <li><div class="button active" data-ref="#papers-selected">Selected</div></li>
     <li><div class="button" data-ref="#papers-all">All</div></li>
-  </ul> -->
+  </ul>
 
   <div class="tab-content">
-    <!-- <div class="tab-pane active" id="papers-selected">
+    <div class="tab-pane active" id="papers-selected">
       {% assign selected_papers = site.data.publications.papers | where: "selected", "y" %}
       {% for paper in selected_papers %}
         <div class="paper">
@@ -103,7 +103,7 @@ layout: default
           </div>
         </div>
       {% endfor %}
-    </div> -->
+    </div>
 
     <div class="tab-pane" id="papers-all">
       {% for paper in site.data.publications.papers %}
