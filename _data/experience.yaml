@@ -6,7 +6,7 @@ experiences:
   category: "work"
 
 - place: "KAIST"
-  time: "Mar. 2019 - Feb. 2021"
+  time: "Feb. 2019 - Feb. 2021"
   title: "M.S. in School of Computing"
   subtitle: "IR&NLP Lab"
   category: "school"
@@ -25,6 +25,6 @@ experiences:
 
 - place: "Chungnam National University"
   time: "Mar. 2012 - Feb. 2019"
-  title: "B.S. in Computer Science & Engineering"
+  title: "B.E. in Computer Science & Engineering"
   subtitle: "<i>Summa Cum Laude</i>"
   category: "school"

@@ -34,7 +34,7 @@ papers:
   - title: "Maximizing Efficiency of Language Model Pre-training for Learning Representation"
     image: "/assets/publications/2020_maximizing_efficiency/image.png"
     authors: "<b>Junmo Kang<sup>*</sup></b>, Suwon Shin<sup>*</sup>, Jeonghwan Kim<sup>*</sup>, Jaeyoung Jo<sup>*</sup>, Sung-Hyon Myaeng"
-    venue: "In Proceedings of Korea Software Congress (KSC), 2020."
+    venue: "arXiv, 2020."
     paper_pdf: "https://arxiv.org/pdf/2110.06620.pdf"
     selected: y
 
