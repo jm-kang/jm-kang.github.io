@@ -1,13 +1,18 @@
 experiences:
+- place: "Georgia Tech"
+  time: "Aug. 2022 - Present"
+  title: "Ph.D. in Computer Science"
+  category: "school"
+
 - place: "KAIST IR&NLP Lab"
-  time: "Mar. 2021 - Present"
+  time: "Mar. 2021 - July. 2022"
   title: "Research Associate"
   subtitle: "Working on QA and IR"
   category: "work"
 
 - place: "KAIST"
   time: "Feb. 2019 - Feb. 2021"
-  title: "M.S. in School of Computing"
+  title: "M.S. in Computer Science"
   subtitle: "IR&NLP Lab"
   category: "school"
 

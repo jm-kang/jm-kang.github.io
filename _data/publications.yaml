@@ -4,6 +4,7 @@ papers:
     image: "/assets/publications/2022_exploiting_numerical-contextual/image.png"
     authors: "Jeonghwan Kim, <b>Junmo Kang</b>, Giwon Hong, Kyung-min Kim, Sung-Hyon Myaeng"
     venue: "In Proceedings of Findings of NAACL, 2022."
+    paper_pdf: "https://aclanthology.org/2022.findings-naacl.138.pdf"
     selected: y
 
   - title: "Ultra-High Dimensional Sparse Representations with Binarization for Efficient Text Retrieval"
@@ -42,7 +43,7 @@ papers:
     authors: "<b>Junmo Kang<sup>*</sup></b>, Suwon Shin<sup>*</sup>, Jeonghwan Kim<sup>*</sup>, Jaeyoung Jo<sup>*</sup>, Sung-Hyon Myaeng"
     venue: "arXiv, 2020."
     paper_pdf: "https://arxiv.org/pdf/2110.06620.pdf"
-    selected: y
+    selected: n
 
   - title: "Regularization of Distinct Strategies for Unsupervised Question Generation"
     image: "/assets/publications/2020_regularization/image.png"
