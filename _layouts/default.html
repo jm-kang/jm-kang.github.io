@@ -64,7 +64,7 @@
     <section class="header">
       <div class="row">
         <div class="three columns">
-          <a href="{{ site.baseurl }}/"><img class="u-max-full-width" src='{{ site.baseurl }}{{ site.data.main_info.profile_pic }}'></a>
+          <a href="{{ site.baseurl }}/"><img class="u-max-full-width" style="border-radius: 1rem;" src='{{ site.baseurl }}{{ site.data.main_info.profile_pic }}'></a>
         </div>
         <div class="nine columns main-description">
             <h1>{{ site.data.main_info.name }}</h1>
@@ -74,7 +74,7 @@
             <p>{{ site.data.main_info.email }}</p>
             <p>
               <span onclick="window.open('{{ site.data.main_info.cv }}')" style="cursor: pointer">
-                <i class="fa fa-download" aria-hidden="true"></i>
+                <i class="fa ai ai-cv" aria-hidden="true"></i>
               </span>
               
               <span onclick="window.open('{{ site.data.main_info.semantic_scholar }}')" style="cursor: pointer">
@@ -125,7 +125,7 @@
         </div>
         <div class="four columns">
           <span onclick="window.open('{{ site.data.main_info.cv }}')" style="cursor: pointer">
-            <i class="fa fa-download" aria-hidden="true"></i>
+            <i class="fa ai ai-cv" aria-hidden="true"></i>
           </span>
           <span onclick="window.open('{{ site.data.main_info.semantic_scholar }}')" style="cursor: pointer">
             <i class="ai ai-semantic-scholar-square" aria-hidden="true"></i>
