@@ -69,6 +69,8 @@
         <div class="nine columns main-description">
             <h1>{{ site.data.main_info.name }}</h1>
             <p>{{ site.data.main_info.title }}</p>
+            <p>{{ site.data.main_info.dept }}</p>
+            <p>{{ site.data.main_info.office }}</p>
             <p>{{ site.data.main_info.email }}</p>
             <p>
               <span onclick="window.open('{{ site.data.main_info.cv }}')" style="cursor: pointer">
@@ -83,12 +85,16 @@
                 <i class="ai fa ai-google-scholar-square" aria-hidden="true"></i>
               </span>
 
-              <span onclick="window.open('{{ site.data.main_info.linkedin }}')" style="cursor: pointer">
-                <i class="fa fa-linkedin-square" aria-hidden="true"></i>
-              </span>
+              <span onclick="window.open('{{ site.data.main_info.twitter }}')" style="cursor: pointer">
+                <i class="fa fa-twitter" aria-hidden="true"></i>
+              </span>    
 
               <span onclick="window.open('{{ site.data.main_info.github }}')" style="cursor: pointer">
                 <i class="fa fa-github" aria-hidden="true"></i>
+              </span>
+
+              <span onclick="window.open('{{ site.data.main_info.linkedin }}')" style="cursor: pointer">
+                <i class="fa fa-linkedin-square" aria-hidden="true"></i>
               </span>
             </p>
         </div>
@@ -118,9 +124,6 @@
           based on <a href="https://web.media.mit.edu/~msaveski/">Martin Saveski</a>'s template
         </div>
         <div class="four columns">
-          <!-- <span onclick="window.open('{{ site.data.main_info.twitter }}')" style="cursor: pointer">
-            <i class="fa fa-twitter" aria-hidden="true"></i>
-          </span> -->
           <span onclick="window.open('{{ site.data.main_info.cv }}')" style="cursor: pointer">
             <i class="fa fa-download" aria-hidden="true"></i>
           </span>
@@ -130,11 +133,14 @@
           <span onclick="window.open('{{ site.data.main_info.google_scholar }}')" style="cursor: pointer">
             <i class="ai ai-google-scholar-square" aria-hidden="true"></i>
           </span>
-          <span onclick="window.open('{{ site.data.main_info.linkedin }}')" style="cursor: pointer">
-            <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+          <span onclick="window.open('{{ site.data.main_info.twitter }}')" style="cursor: pointer">
+            <i class="fa fa-twitter" aria-hidden="true"></i>
           </span>
           <span onclick="window.open('{{ site.data.main_info.github }}')" style="cursor: pointer">
             <i class="fa fa-github" aria-hidden="true"></i>
+          </span>
+          <span onclick="window.open('{{ site.data.main_info.linkedin }}')" style="cursor: pointer">
+            <i class="fa fa-linkedin-square" aria-hidden="true"></i>
           </span>
         </div>
       </div>
