@@ -1,4 +1,9 @@
 papers:
+  - title: "Graph-Induced Transformers for Efficient Multi-Hop Question Answering"
+    image: "/assets/publications/2022_git/GIT.png"
+    authors: "Giwon Hong, Jeonghwan Kim, <b>Junmo Kang</b>, Sung-Hyon Myaeng"
+    venue: "In Proceedings of EMNLP, 2022."
+    selected: y
 
   - title: "Exploiting Numerical-Contextual Knowledge to Improve Numerical Reasoning in Question Answering"
     image: "/assets/publications/2022_exploiting_numerical-contextual/image.png"
