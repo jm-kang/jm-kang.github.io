@@ -1,4 +1,10 @@
 experiences:
+- place: "MIT-IBM Watson AI Lab"
+  time: "May. 2023 - Aug. 2023 (Expected)"
+  title: "Research Intern"
+  subtitle: "Large Language Models"
+  category: "work"
+
 - place: "Georgia Tech"
   time: "Aug. 2022 - Present"
   title: "Ph.D. in Computer Science"
@@ -7,7 +13,7 @@ experiences:
 - place: "KAIST IR&NLP Lab"
   time: "Mar. 2021 - July. 2022"
   title: "Research Associate"
-  subtitle: "Working on QA and IR"
+  subtitle: "QA & IR"
   category: "work"
 
 - place: "KAIST"
@@ -15,12 +21,6 @@ experiences:
   title: "M.S. in Computer Science"
   subtitle: "IR&NLP Lab"
   category: "school"
-
-- place: "Poten Brothers"
-  time: "Mar. 2017 - Feb. 2018"
-  title: "Co-founder"
-  subtitle: "Startup"
-  category: "work"
 
 - place: "Republic of Korea Army"
   time: "Apr. 2013 - Jan. 2015"

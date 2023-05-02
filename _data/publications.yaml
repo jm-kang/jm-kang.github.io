@@ -1,8 +1,15 @@
 papers:
+  - title: "Distill or Annotate? Cost-Efficient Fine-Tuning of Compact Models"
+    image: "/assets/publications/2023_dist_or_ann/strategies.png"
+    authors: "<b>Junmo Kang</b>, Wei Xu, Alan Ritter"
+    venue: "In Proceedings of ACL, 2023 (To appear)."
+    selected: y
+
   - title: "Graph-Induced Transformers for Efficient Multi-Hop Question Answering"
     image: "/assets/publications/2022_git/GIT.png"
     authors: "Giwon Hong, Jeonghwan Kim, <b>Junmo Kang</b>, Sung-Hyon Myaeng"
     venue: "In Proceedings of EMNLP, 2022."
+    paper_pdf: "https://aclanthology.org/2022.emnlp-main.702.pdf"
     selected: y
 
   - title: "Exploiting Numerical-Contextual Knowledge to Improve Numerical Reasoning in Question Answering"
