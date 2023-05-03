@@ -2,7 +2,8 @@ papers:
   - title: "Distill or Annotate? Cost-Efficient Fine-Tuning of Compact Models"
     image: "/assets/publications/2023_dist_or_ann/strategies.png"
     authors: "<b>Junmo Kang</b>, Wei Xu, Alan Ritter"
-    venue: "In Proceedings of ACL, 2023 (To appear)."
+    venue: "In Proceedings of ACL, 2023."
+    paper_pdf: "https://arxiv.org/pdf/2305.01645.pdf"
     selected: y
 
   - title: "Graph-Induced Transformers for Efficient Multi-Hop Question Answering"
