@@ -1,4 +1,18 @@
 papers:
+  - title: "Schema-Driven Information Extraction from Heterogeneous Tables"
+    image: "/assets/publications/2023_schema-to-json/schema-to-json.png"
+    authors: "Fan Bai, <b>Junmo Kang</b>, Gabriel Stanovsky, Dayne Freitag, Alan Ritter"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/pdf/2305.14336.pdf"
+    selected: y
+
+  - title: "Discern and Answer: Mitigating the Impact of Misinformation in Retrieval-Augmented Models with Discriminators"
+    image: "/assets/publications/2023_retrieval_misinfo/strategies.png"
+    authors: "Giwon Hong*, Jeonghwan Kim*, <b>Junmo Kang*</b>, Sung-Hyon Myaeng, Joyce Jiyoung Whang"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/pdf/2305.01579.pdf"
+    selected: y
+
   - title: "Distill or Annotate? Cost-Efficient Fine-Tuning of Compact Models"
     image: "/assets/publications/2023_dist_or_ann/strategies.png"
     authors: "<b>Junmo Kang</b>, Wei Xu, Alan Ritter"
@@ -45,7 +59,7 @@ papers:
 
   - title: "Can You Distinguish Truthful from Fake Reviews? User Analysis and Assistance Tool for Fake Review Detection"
     image: "/assets/publications/2021_can_you_distinguish/image.png"
-    authors: "Jeonghwan Kim<sup>*</sup>, <b>Junmo Kang<sup>*</sup></b>, Suwon Shin<sup>*</sup>, Sung-Hyon Myaeng"
+    authors: "Jeonghwan Kim*, <b>Junmo Kang*</b>, Suwon Shin*, Sung-Hyon Myaeng"
     venue: "In Proceedings of HCI+NLP@EACL, 2021."
     paper_pdf: "https://aclanthology.org/2021.hcinlp-1.9.pdf"
     poster: "/assets/publications/2021_can_you_distinguish/eacl_poster.pdf"
@@ -53,28 +67,28 @@ papers:
 
   - title: "Maximizing Efficiency of Language Model Pre-training for Learning Representation"
     image: "/assets/publications/2020_maximizing_efficiency/image.png"
-    authors: "<b>Junmo Kang<sup>*</sup></b>, Suwon Shin<sup>*</sup>, Jeonghwan Kim<sup>*</sup>, Jaeyoung Jo<sup>*</sup>, Sung-Hyon Myaeng"
+    authors: "<b>Junmo Kang*</b>, Suwon Shin*, Jeonghwan Kim*, Jaeyoung Jo*, Sung-Hyon Myaeng"
     venue: "arXiv, 2020."
     paper_pdf: "https://arxiv.org/pdf/2110.06620.pdf"
     selected: n
 
   - title: "Regularization of Distinct Strategies for Unsupervised Question Generation"
     image: "/assets/publications/2020_regularization/image.png"
-    authors: "<b>Junmo Kang<sup>*</sup></b>, Giwon Hong<sup>*</sup>, Haritz Puerto San Roman<sup>*</sup>, Sung-Hyon Myaeng"
+    authors: "<b>Junmo Kang*</b>, Giwon Hong*, Haritz Puerto San Roman*, Sung-Hyon Myaeng"
     venue: "In Proceedings of Findings of EMNLP, 2020."
     paper_pdf: "https://www.aclweb.org/anthology/2020.findings-emnlp.293.pdf"
     selected: y
 
   - title: "Handling Anomalies of Synthetic Questions in Unsupervised Question Answering"
     image: "/assets/publications/2020_handling_anomalies/image.png"
-    authors: "Giwon Hong<sup>*</sup>, <b>Junmo Kang<sup>*</sup></b>, Doyeon Lim<sup>*</sup>, Sung-Hyon Myaeng"
+    authors: "Giwon Hong*, <b>Junmo Kang*</b>, Doyeon Lim*, Sung-Hyon Myaeng"
     venue: "In Proceedings of COLING, 2020."
     paper_pdf: "https://www.aclweb.org/anthology/2020.coling-main.306.pdf"
     selected: y
 
   - title: "Let Me Know What to Ask: Interrogative-Word-Aware Question Generation"
     image: "/assets/publications/2019_let_me_know/image.png"
-    authors: "<b>Junmo Kang<sup>*</sup></b>, Haritz Puerto San Roman<sup>*</sup>, Sung-Hyon Myaeng"
+    authors: "<b>Junmo Kang*</b>, Haritz Puerto San Roman*, Sung-Hyon Myaeng"
     venue: "In Proceedings of MRQA@EMNLP, 2019."
     paper_pdf: "https://www.aclweb.org/anthology/D19-5822.pdf"
     poster: "/assets/publications/2019_let_me_know/poster.pdf"
