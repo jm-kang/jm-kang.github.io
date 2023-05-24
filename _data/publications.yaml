@@ -1,13 +1,13 @@
 papers:
   - title: "Schema-Driven Information Extraction from Heterogeneous Tables"
-    image: "/assets/publications/2023_schema-to-json/schema-to-json.png"
+    image: "/assets/publications/2023_schema-to-json/main.png"
     authors: "Fan Bai, <b>Junmo Kang</b>, Gabriel Stanovsky, Dayne Freitag, Alan Ritter"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/pdf/2305.14336.pdf"
     selected: y
 
   - title: "Discern and Answer: Mitigating the Impact of Misinformation in Retrieval-Augmented Models with Discriminators"
-    image: "/assets/publications/2023_retrieval_misinfo/strategies.png"
+    image: "/assets/publications/2023_retrieval_misinfo/image.png"
     authors: "Giwon Hong*, Jeonghwan Kim*, <b>Junmo Kang*</b>, Sung-Hyon Myaeng, Joyce Jiyoung Whang"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/pdf/2305.01579.pdf"
