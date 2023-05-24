@@ -7,7 +7,7 @@ papers:
     selected: y
 
   - title: "Discern and Answer: Mitigating the Impact of Misinformation in Retrieval-Augmented Models with Discriminators"
-    image: "/assets/publications/2023_retrieval_misinfo/image.png"
+    image: "/assets/publications/2023_retrieval_misinfo/main.png"
     authors: "Giwon Hong*, Jeonghwan Kim*, <b>Junmo Kang*</b>, Sung-Hyon Myaeng, Joyce Jiyoung Whang"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/pdf/2305.01579.pdf"
