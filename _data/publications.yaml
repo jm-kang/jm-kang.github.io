@@ -18,6 +18,8 @@ papers:
     authors: "<b>Junmo Kang</b>, Wei Xu, Alan Ritter"
     venue: "In Proceedings of ACL, 2023."
     paper_pdf: "https://arxiv.org/pdf/2305.01645.pdf"
+    poster: "/assets/publications/2023_dist_or_ann/poster.pdf"
+    slides: "/assets/publications/2023_dist_or_ann/slide.pdf"
     selected: y
 
   - title: "Graph-Induced Transformers for Efficient Multi-Hop Question Answering"
