@@ -1,4 +1,11 @@
 papers:
+  - title: "Self-Specialization: Uncovering Latent Expertise within Large Language Models"
+    image: "/assets/publications/2023_self-specialization/figure1.png"
+    authors: "<b>Junmo Kang</b>, Hongyin Luo, Yada Zhu, James Glass, David Cox, Alan Ritter, Rogerio Feris, Leonid Karlinsky"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2310.00160"
+    selected: y
+
   - title: "Schema-Driven Information Extraction from Heterogeneous Tables"
     image: "/assets/publications/2023_schema-to-json/schema-to-json.png"
     authors: "Fan Bai, <b>Junmo Kang</b>, Gabriel Stanovsky, Dayne Freitag, Alan Ritter"
@@ -17,16 +24,17 @@ papers:
     image: "/assets/publications/2023_dist_or_ann/strategies.png"
     authors: "<b>Junmo Kang</b>, Wei Xu, Alan Ritter"
     venue: "In Proceedings of ACL, 2023."
-    paper_pdf: "https://arxiv.org/pdf/2305.01645.pdf"
+    paper_pdf: "https://aclanthology.org/2023.acl-long.622/"
     poster: "/assets/publications/2023_dist_or_ann/poster.pdf"
     slides: "/assets/publications/2023_dist_or_ann/slide.pdf"
+    code: "https://github.com/jm-kang/Distill-or-Annotate"
     selected: y
 
   - title: "Graph-Induced Transformers for Efficient Multi-Hop Question Answering"
     image: "/assets/publications/2022_git/GIT.png"
     authors: "Giwon Hong, Jeonghwan Kim, <b>Junmo Kang</b>, Sung-Hyon Myaeng"
     venue: "In Proceedings of EMNLP, 2022."
-    paper_pdf: "https://aclanthology.org/2022.emnlp-main.702.pdf"
+    paper_pdf: "https://aclanthology.org/2022.emnlp-main.702/"
     selected: y
 
   - title: "Exploiting Numerical-Contextual Knowledge to Improve Numerical Reasoning in Question Answering"
