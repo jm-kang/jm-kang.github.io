@@ -1,0 +1,6 @@
+@article{bai2023schema,
+  title={Schema-Driven Information Extraction from Heterogeneous Tables},
+  author={Bai, Fan and Kang, Junmo and Stanovsky, Gabriel and Freitag, Dayne and Ritter, Alan},
+  journal={arXiv preprint arXiv:2305.14336},
+  year={2023}
+}

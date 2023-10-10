@@ -1,0 +1,6 @@
+@article{kang2023self,
+  title={Self-Specialization: Uncovering Latent Expertise within Large Language Models},
+  author={Kang, Junmo and Luo, Hongyin and Zhu, Yada and Glass, James and Cox, David and Ritter, Alan and Feris, Rogerio and Karlinsky, Leonid},
+  journal={arXiv preprint arXiv:2310.00160},
+  year={2023}
+}

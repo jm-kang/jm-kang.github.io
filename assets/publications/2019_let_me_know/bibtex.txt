@@ -1,0 +1,6 @@
+@inproceedings{kang2019let,
+  title={Let Me Know What to Ask: Interrogative-Word-Aware Question Generation},
+  author={Kang, Junmo and San Roman, Haritz Puerto and Myaeng, Sung-Hyon},
+  booktitle={Proceedings of the 2nd Workshop on Machine Reading for Question Answering},
+  year={2019}
+}

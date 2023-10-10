@@ -1,0 +1,6 @@
+@inproceedings{hong2022graph,
+  title={Graph-Induced Transformers for Efficient Multi-Hop Question Answering},
+  author={Hong, Giwon and Kim, Jeonghwan and Kang, Junmo and Myaeng, Sung-Hyon},
+  booktitle={Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing},
+  year={2022}
+}

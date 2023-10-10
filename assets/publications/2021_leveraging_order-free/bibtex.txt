@@ -1,0 +1,6 @@
+@inproceedings{kang2021leveraging,
+  title={Leveraging Order-Free Tag Relations for Context-Aware Recommendation},
+  author={Kang, Junmo and Kim, Jeonghwan and Shin, Suwon and Myaeng, Sung-Hyon},
+  booktitle={Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing},
+  year={2021}
+}

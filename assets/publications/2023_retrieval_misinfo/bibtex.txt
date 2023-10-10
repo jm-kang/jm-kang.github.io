@@ -1,0 +1,6 @@
+@article{hong2023discern,
+  title={Discern and Answer: Mitigating the Impact of Misinformation in Retrieval-Augmented Models with Discriminators},
+  author={Hong, Giwon and Kim, Jeonghwan and Kang, Junmo and Myaeng, Sung-Hyon and Whang, Joyce Jiyoung},
+  journal={arXiv preprint arXiv:2305.01579},
+  year={2023}
+}

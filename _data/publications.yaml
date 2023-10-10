@@ -4,6 +4,7 @@ papers:
     authors: "<b>Junmo Kang</b>, Hongyin Luo, Yada Zhu, James Glass, David Cox, Alan Ritter, Rogerio Feris, Leonid Karlinsky"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2310.00160"
+    bibtex: "/assets/publications/2023_self-specialization/bibtex.txt"
     selected: y
 
   - title: "Schema-Driven Information Extraction from Heterogeneous Tables"
@@ -11,6 +12,7 @@ papers:
     authors: "Fan Bai, <b>Junmo Kang</b>, Gabriel Stanovsky, Dayne Freitag, Alan Ritter"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/pdf/2305.14336.pdf"
+    bibtex: "/assets/publications/2023_schema-to-json/bibtex.txt"
     selected: y
 
   - title: "Discern and Answer: Mitigating the Impact of Misinformation in Retrieval-Augmented Models with Discriminators"
@@ -18,6 +20,7 @@ papers:
     authors: "Giwon Hong*, Jeonghwan Kim*, <b>Junmo Kang*</b>, Sung-Hyon Myaeng, Joyce Jiyoung Whang"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/pdf/2305.01579.pdf"
+    bibtex: "/assets/publications/2023_retrieval_misinfo/bibtex.txt"
     selected: y
 
   - title: "Distill or Annotate? Cost-Efficient Fine-Tuning of Compact Models"
@@ -28,6 +31,7 @@ papers:
     poster: "/assets/publications/2023_dist_or_ann/poster.pdf"
     slides: "/assets/publications/2023_dist_or_ann/slide.pdf"
     code: "https://github.com/jm-kang/Distill-or-Annotate"
+    bibtex: "/assets/publications/2023_dist_or_ann/bibtex.txt"
     selected: y
 
   - title: "Graph-Induced Transformers for Efficient Multi-Hop Question Answering"
@@ -35,6 +39,7 @@ papers:
     authors: "Giwon Hong, Jeonghwan Kim, <b>Junmo Kang</b>, Sung-Hyon Myaeng"
     venue: "In Proceedings of EMNLP, 2022."
     paper_pdf: "https://aclanthology.org/2022.emnlp-main.702/"
+    bibtex: "/assets/publications/2022_git/bibtex.txt"
     selected: y
 
   - title: "Exploiting Numerical-Contextual Knowledge to Improve Numerical Reasoning in Question Answering"
@@ -42,6 +47,7 @@ papers:
     authors: "Jeonghwan Kim, <b>Junmo Kang</b>, Giwon Hong, Kyung-min Kim, Sung-Hyon Myaeng"
     venue: "In Proceedings of Findings of NAACL, 2022."
     paper_pdf: "https://aclanthology.org/2022.findings-naacl.138.pdf"
+    bibtex: "/assets/publications/2022_exploiting_numerical-contextual/bibtex.txt"
     selected: y
 
   - title: "Ultra-High Dimensional Sparse Representations with Binarization for Efficient Text Retrieval"
@@ -49,6 +55,7 @@ papers:
     authors: "Kyoung-Rok Jang, <b>Junmo Kang</b>, Giwon Hong, Sung-Hyon Myaeng, Joohee Park, Taewon Yoon, Heecheol Seo"
     venue: "In Proceedings of EMNLP, 2021."
     paper_pdf: "https://aclanthology.org/2021.emnlp-main.78.pdf"
+    bibtex: "/assets/publications/2021_ultra_high_dimensional/bibtex.txt"
     selected: y
 
   - title: "Leveraging Order-Free Tag Relations for Context-Aware Recommendation"
@@ -57,6 +64,7 @@ papers:
     venue: "In Proceedings of EMNLP, 2021."
     paper_pdf: "https://aclanthology.org/2021.emnlp-main.279.pdf"
     poster: "/assets/publications/2021_leveraging_order-free/SOG_poster.pdf"
+    bibtex: "/assets/publications/2021_leveraging_order-free/bibtex.txt"
     selected: y
 
   - title: "Have You Seen That Number? Investigating Extrapolation in Question Answering Models"
@@ -65,6 +73,7 @@ papers:
     venue: "In Proceedings of EMNLP, 2021."
     paper_pdf: "https://aclanthology.org/2021.emnlp-main.563.pdf"
     poster: "/assets/publications/2021_have_you_seen/haveyouseennum_emnlp2021_poster.pdf"
+    bibtex: "/assets/publications/2021_have_you_seen/bibtex.txt"
     selected: y
 
   - title: "Can You Distinguish Truthful from Fake Reviews? User Analysis and Assistance Tool for Fake Review Detection"
@@ -73,6 +82,7 @@ papers:
     venue: "In Proceedings of HCI+NLP@EACL, 2021."
     paper_pdf: "https://aclanthology.org/2021.hcinlp-1.9.pdf"
     poster: "/assets/publications/2021_can_you_distinguish/eacl_poster.pdf"
+    bibtex: "/assets/publications/2021_can_you_distinguish/bibtex.txt"
     selected: y
 
   - title: "Maximizing Efficiency of Language Model Pre-training for Learning Representation"
@@ -87,6 +97,7 @@ papers:
     authors: "<b>Junmo Kang*</b>, Giwon Hong*, Haritz Puerto San Roman*, Sung-Hyon Myaeng"
     venue: "In Proceedings of Findings of EMNLP, 2020."
     paper_pdf: "https://www.aclweb.org/anthology/2020.findings-emnlp.293.pdf"
+    bibtex: "/assets/publications/2020_regularization/bibtex.txt"
     selected: y
 
   - title: "Handling Anomalies of Synthetic Questions in Unsupervised Question Answering"
@@ -94,6 +105,7 @@ papers:
     authors: "Giwon Hong*, <b>Junmo Kang*</b>, Doyeon Lim*, Sung-Hyon Myaeng"
     venue: "In Proceedings of COLING, 2020."
     paper_pdf: "https://www.aclweb.org/anthology/2020.coling-main.306.pdf"
+    bibtex: "/assets/publications/2020_handling_anomalies/bibtex.txt"
     selected: y
 
   - title: "Let Me Know What to Ask: Interrogative-Word-Aware Question Generation"
@@ -102,4 +114,5 @@ papers:
     venue: "In Proceedings of MRQA@EMNLP, 2019."
     paper_pdf: "https://www.aclweb.org/anthology/D19-5822.pdf"
     poster: "/assets/publications/2019_let_me_know/poster.pdf"
+    bibtex: "/assets/publications/2019_let_me_know/bibtex.txt"
     selected: y

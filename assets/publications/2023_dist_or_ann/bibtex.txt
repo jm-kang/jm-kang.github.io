@@ -1,0 +1,6 @@
+@inproceedings{kang-etal-2023-distill,
+  title={Distill or Annotate? Cost-Efficient Fine-Tuning of Compact Models},
+  author={Kang, Junmo and Xu, Wei and Ritter, Alan},
+  booktitle={Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  year={2023}
+}

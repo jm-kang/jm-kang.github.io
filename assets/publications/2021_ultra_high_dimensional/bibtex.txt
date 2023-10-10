@@ -1,0 +1,6 @@
+@inproceedings{jang2021ultra,
+  title={Ultra-High Dimensional Sparse Representations with Binarization for Efficient Text Retrieval},
+  author={Jang, Kyoung-Rok and Kang, Junmo and Hong, Giwon and Myaeng, Sung-Hyon and Park, Joohee and Yoon, Taewon and Seo, Heecheol},
+  booktitle={Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing},
+  year={2021}
+}

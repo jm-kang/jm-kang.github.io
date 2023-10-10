@@ -1,0 +1,6 @@
+@inproceedings{kim2021can,
+  title={Can you distinguish truthful from fake reviews? User analysis and assistance tool for fake review detection},
+  author={Kim, Jeonghwan and Kang, Junmo and Shin, Suwon and Myaeng, Sung-Hyon},
+  booktitle={Proceedings of the first workshop on bridging human--computer interaction and natural language processing},
+  year={2021}
+}

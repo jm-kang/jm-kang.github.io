@@ -1,0 +1,6 @@
+@inproceedings{kang2020regularization,
+  title={Regularization of Distinct Strategies for Unsupervised Question Generation},
+  author={Kang, Junmo and Hong, Giwon and San Roman, Haritz Puerto and Myaeng, Sung-Hyon},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2020},
+  year={2020}
+}

@@ -1,0 +1,6 @@
+@inproceedings{hong2020handling,
+  title={Handling anomalies of synthetic questions in unsupervised question answering},
+  author={Hong, Giwon and Kang, Junmo and Lim, Doyeon and Myaeng, Sung-Hyon},
+  booktitle={Proceedings of the 28th International Conference on Computational Linguistics},
+  year={2020}
+}

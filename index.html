@@ -209,6 +209,10 @@ layout: default
                 {% if paper.code %}
                   <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
                 {% endif %}
+
+                {% if paper.bibtex %}
+                  <a class="button" href="{{ paper.bibtex }}" target="_blank">BibTeX</a>
+                {% endif %}
               </div>
             </div>
           </div>
