@@ -158,11 +158,15 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: darksalmon;
+  color: #46923c;
   text-decoration: none;
   font-weight: bold; }
 a:hover {
-  color: cadetblue; }
+  color: white;
+  transition: 0.2s ease-in-out;
+  background: darksalmon;
+  border-radius: 4px;
+  padding: 0 3px; }
 
 
 /* Buttons
