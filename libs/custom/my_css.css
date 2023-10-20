@@ -23,6 +23,7 @@ h4 {
 .paper-buttons {
   margin-top: 5px }
 .paper .button {
+  background: transparent;
   display: inline-block;
   height: 25px;
   padding: 0 25px;
