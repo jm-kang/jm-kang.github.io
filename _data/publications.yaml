@@ -15,11 +15,11 @@ papers:
     bibtex: "/assets/publications/2023_schema-to-json/bibtex.txt"
     selected: y
 
-  - title: "Discern and Answer: Mitigating the Impact of Misinformation in Retrieval-Augmented Models with Discriminators"
-    image: "/assets/publications/2023_retrieval_misinfo/image.png"
+  - title: "Why So Gullible? Enhancing the Robustness of Retrieval-Augmented Models against Counterfactual Noise"
+    image: "/assets/publications/2023_retrieval_misinfo/figure1_v2.png"
     authors: "Giwon Hong*, Jeonghwan Kim*, <b>Junmo Kang*</b>, Sung-Hyon Myaeng, Joyce Jiyoung Whang"
-    venue: "Preprint"
-    paper_pdf: "https://arxiv.org/pdf/2305.01579.pdf"
+    venue: "NAACL 2024 Findings"
+    paper_pdf: "/assets/publications/2023_retrieval_misinfo/2305.01579.pdf"
     bibtex: "/assets/publications/2023_retrieval_misinfo/bibtex.txt"
     selected: y
 
@@ -45,7 +45,7 @@ papers:
   - title: "Exploiting Numerical-Contextual Knowledge to Improve Numerical Reasoning in Question Answering"
     image: "/assets/publications/2022_exploiting_numerical-contextual/image.png"
     authors: "Jeonghwan Kim, <b>Junmo Kang</b>, Giwon Hong, Kyung-min Kim, Sung-Hyon Myaeng"
-    venue: "NAACL Findings 2022"
+    venue: "NAACL 2022 Findings"
     paper_pdf: "https://aclanthology.org/2022.findings-naacl.138.pdf"
     bibtex: "/assets/publications/2022_exploiting_numerical-contextual/bibtex.txt"
     selected: y
@@ -95,7 +95,7 @@ papers:
   - title: "Regularization of Distinct Strategies for Unsupervised Question Generation"
     image: "/assets/publications/2020_regularization/image.png"
     authors: "<b>Junmo Kang*</b>, Giwon Hong*, Haritz Puerto San Roman*, Sung-Hyon Myaeng"
-    venue: "EMNLP Findings 2020"
+    venue: "EMNLP 2020 Findings"
     paper_pdf: "https://www.aclweb.org/anthology/2020.findings-emnlp.293.pdf"
     bibtex: "/assets/publications/2020_regularization/bibtex.txt"
     selected: y
