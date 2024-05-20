@@ -1,5 +1,11 @@
 experiences:
 - place: "MIT-IBM Watson AI Lab"
+  time: "May. 2024 - Present"
+  title: "Research Intern"
+  subtitle: "Compositional LLMs of Self-Specialized Experts"
+  category: "work"
+
+- place: "MIT-IBM Watson AI Lab"
   time: "May. 2023 - Aug. 2023"
   title: "Research Intern"
   subtitle: "Self-Alignment of LLMs for Specialization"
