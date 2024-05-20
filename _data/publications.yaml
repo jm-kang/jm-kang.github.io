@@ -1,8 +1,8 @@
 papers:
   - title: "Self-Specialization: Uncovering Latent Expertise within Large Language Models"
     image: "/assets/publications/2023_self-specialization/figure1.png"
-    authors: "<b>Junmo Kang</b>, Hongyin Luo, Yada Zhu, James Glass, David Cox, Alan Ritter, Rogerio Feris, Leonid Karlinsky"
-    venue: "Preprint"
+    authors: "<b>Junmo Kang</b>, Hongyin Luo, Yada Zhu, Jacob Hansen, James Glass, David Cox, Alan Ritter, Rogerio Feris, Leonid Karlinsky"
+    venue: "ACL 2024 Findings"
     paper_pdf: "https://arxiv.org/abs/2310.00160"
     bibtex: "/assets/publications/2023_self-specialization/bibtex.txt"
     selected: y
