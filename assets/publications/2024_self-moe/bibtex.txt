@@ -1,0 +1,6 @@
+@article{kang2024selfmoe,
+  title={Self-MoE: Towards Compositional Large Language Models with Self-Specialized Experts},
+  author={Kang, Junmo and Karlinsky, Leonid and Luo, Hongyin and Wang, Zhen and Hansen, Jacob and Glass, James and Cox, David and Panda, Rameswar and Feris, Rogerio and Ritter, Alan},
+  journal={arXiv preprint arXiv:2406.12034},
+  year={2024}
+}

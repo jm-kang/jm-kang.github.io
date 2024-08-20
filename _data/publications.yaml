@@ -1,18 +1,28 @@
 papers:
+  - title: "Self-MoE: Towards Compositional Large Language Models with Self-Specialized Experts"
+    image: "/assets/publications/2024_self-moe/figure1.png"
+    authors: "<b>Junmo Kang</b>, Leonid Karlinsky, Hongyin Luo, Zhen Wang, Jacob Hansen, James Glass, David Cox, Rameswar Panda, Rogerio Feris, Alan Ritter"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/pdf/2406.12034"
+    bibtex: "/assets/publications/2024_self-moe/bibtex.txt"
+    selected: y
+
+  - title: "Schema-Driven Information Extraction from Heterogeneous Tables"
+    image: "/assets/publications/2023_schema-to-json/schema-to-json.png"
+    authors: "Fan Bai, <b>Junmo Kang</b>, Gabriel Stanovsky, Dayne Freitag, Mark Dredze, Alan Ritter"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/pdf/2305.14336.pdf"
+    bibtex: "/assets/publications/2023_schema-to-json/bibtex.txt"
+    selected: y
+
   - title: "Self-Specialization: Uncovering Latent Expertise within Large Language Models"
     image: "/assets/publications/2023_self-specialization/figure1.png"
     authors: "<b>Junmo Kang</b>, Hongyin Luo, Yada Zhu, Jacob Hansen, James Glass, David Cox, Alan Ritter, Rogerio Feris, Leonid Karlinsky"
     venue: "ACL 2024 Findings"
     paper_pdf: "https://arxiv.org/abs/2310.00160"
+    poster: "/assets/publications/2023_self-specialization/poster.pdf"
+    blog: "https://research.ibm.com/blog/teaching-AI-models-to-improve-themselves"
     bibtex: "/assets/publications/2023_self-specialization/bibtex.txt"
-    selected: y
-
-  - title: "Schema-Driven Information Extraction from Heterogeneous Tables"
-    image: "/assets/publications/2023_schema-to-json/schema-to-json.png"
-    authors: "Fan Bai, <b>Junmo Kang</b>, Gabriel Stanovsky, Dayne Freitag, Alan Ritter"
-    venue: "Preprint"
-    paper_pdf: "https://arxiv.org/pdf/2305.14336.pdf"
-    bibtex: "/assets/publications/2023_schema-to-json/bibtex.txt"
     selected: y
 
   - title: "Why So Gullible? Enhancing the Robustness of Retrieval-Augmented Models against Counterfactual Noise"
